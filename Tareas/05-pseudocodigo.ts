@@ -1,6 +1,6 @@
 /*
- Crear un programa donde al insertar 2 numeros por teclado a y b .
- Muestre las opciones + , - , * , / , promedio : al insertar la letra inicial de dicha operacion.
+ Crear un programa donde al insertar 2 numeros por teclado a y b que pertenecen a los reales
+ Muestre las opciones + , - , * , / , parte entera de su promedio : al insertar la letra inicial de dicha operacion.
  y que la operacion se escoja por teclado y el resultado se imprima por pantalla
 
 
