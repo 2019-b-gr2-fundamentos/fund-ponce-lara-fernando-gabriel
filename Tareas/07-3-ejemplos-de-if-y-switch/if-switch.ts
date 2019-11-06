@@ -54,3 +54,24 @@ else
         
     }
 }
+
+
+// ejemplo 3
+
+const calificacion = prompt("Ingresa el valor de la calificacion obtenida"); 
+const calif = Number(calificacion);
+console.log("su nota es");
+console.log(calif);
+if(calif >= 0 && calif < 9){
+    console.log("perdio semestre")
+}else{
+    if(calif >= 9 && calif < 14){
+        console.log("supletorio , directo al examen final")
+    }else{
+        if(calif >= 14 && calif <= 20){
+            console.log("aprobado y exonerado")
+        }else{
+            console.log("numero no valido")
+        }
+    }
+}
