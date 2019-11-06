@@ -1,4 +1,4 @@
-////// primer ejemplo
+////// primer ejemplo para calcular el IMC
 const pesoo = prompt("Ingresa el peso en Kg"); 
 const alturaa = prompt("Ingresa la altura en metros"); 
 const peso = Number(pesoo);
@@ -28,5 +28,29 @@ else
             console.log("sobrepeso morbido");
         }     
         }
+    }
+}
+////// 2do ejemplo para calcular el IMC
+const temperatura = prompt("Ingresa el valor de la temperatura en C mediante via oral"); 
+const temp = Number(temperatura);
+console.log('su temperatura es');
+console.log(temp);
+if ( temp < 36.7 ) 
+{
+    console.log("debajo de los niveles normales");
+} 
+else
+{
+    if ( temp >= 36.7 && temp <= 37.3 )
+    {
+        console.log("normal");
+    } 
+    else
+    {
+            if ( temp > 30 )
+        {
+            console.log("tiene fiebre");
+        }    
+        
     }
 }
