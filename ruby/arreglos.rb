@@ -25,3 +25,11 @@ puts amigos.include? "pedro"
 puts amigos.include? 23
 #sacar la matriz reversa
 puts amigos.reverse
+
+####  definir arreglo
+
+puts "ARREGLO"
+vector = Array.new(5)
+puts "antes del arreglo"
+puts vector
+puts "despues del arreglo"
