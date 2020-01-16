@@ -3,10 +3,9 @@
 int main(void){
 	
 	
-	printf("hola muikikndo");
+	printf("hola mundo \n");
 	printf("como estas?");
 	
 	return 0;
 	
 }
-
