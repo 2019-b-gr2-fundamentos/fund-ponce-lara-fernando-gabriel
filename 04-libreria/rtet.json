@@ -1,0 +1,18 @@
+{
+    "nombre" : "fernando",
+    "apellido" : "ponce",
+    "edad" : "23",
+    "casado" : "false",
+    "hijos" : "null",
+    "hijos" : "null",
+    "mascotas" : ["cachetes"],
+    "primo":  {
+            "nombre" : "fernando",
+            "apellido" : "ponce",
+            "edad" : "23",
+            "casado" : "false",
+            "hijos" : "null",
+            "hijos" : "null",
+            "mascotas" : ["cachetes"],   
+    }
+}
